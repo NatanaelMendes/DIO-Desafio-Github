@@ -1,2 +1,2 @@
-# DIO-Desafio-Github
-Desafio de Projeto Git/Github
+# Repositório do Desafio de Git/Github
+### Usando na prática o Git Bash
